@@ -17,7 +17,7 @@ This document explains how every team member should use Git when contributing to
 First, clone the repository to your computer.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Wilderness-Weathering-System.git
+git clone https://github.com/Nak-Danin/Case-Study-Wilderness-Weathering-System.git
 ```
 
 Enter the project folder:
