@@ -1,4 +1,4 @@
-# Functional Requirements (UR-01 … UR-16)
+# Functional Requirements (UR-01 to UR-16)
 
 **Definition applied** — Sommerville, 9th ed., Ch. 4, p. 85, ll. 3–6: functional
 requirements state the services the system should provide, how it should react
